@@ -233,6 +233,7 @@ img { display: block; }
 }
 
 .hero-copy {
+  text-transform: uppercase;
   position: absolute;
   right: 6.6vw;
   bottom: 8.4vh;
