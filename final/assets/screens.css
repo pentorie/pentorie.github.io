@@ -246,8 +246,6 @@ img { display: block; }
   letter-spacing: -.018em;
   line-height: 1.1;
   text-align: center;
-  text-wrap: balance;
-  animation: rise-in 1.05s .35s var(--ease) both;
 }
 
 .award-screen {
