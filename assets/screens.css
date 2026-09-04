@@ -102,6 +102,11 @@ img { display: block; }
   animation: glow-breathe 8s ease-in-out infinite alternate;
 }
 
+.hero-copy {
+  text-transform: uppercase;
+}
+  
+
 .ambient-glow::before {
   left: -20vw;
   top: 12vh;
