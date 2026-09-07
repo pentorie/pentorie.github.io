@@ -14,6 +14,8 @@
     { id: "sila", type: "sila", src: "assets/logos/sila-mark.svg", alt: "Сила Сибири", mainIndex: 3 },
     { id: "strong-choice", type: "logo", src: "assets/logos/strong-choice.svg", alt: "Выбор сильных", mainIndex: 4 },
     { id: "sila", type: "sila", src: "assets/logos/sila-mark.svg", alt: "Сила Сибири", mainIndex: 4 },
+    { id: "judo", type: "logo", src: "assets/logos/judo.svg", alt: "Дзюдо", mainIndex: 5 },
+    { id: "sila", type: "sila", src: "assets/logos/sila-mark.svg", alt: "Сила Сибири", mainIndex: 5 },
   ];
 
   let index = 0;
