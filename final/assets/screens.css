@@ -291,7 +291,7 @@ img { display: block; }
 .award-dates strong {
   display: block;
   font-family: "Druk Wide Cyr", "RF Dewi Expanded", Arial, sans-serif;
-  font-size: clamp(49px, 5.25vw, 88px);
+  font-size: 4vw;
   font-weight: 900;
   letter-spacing: -.035em;
   line-height: .82;
