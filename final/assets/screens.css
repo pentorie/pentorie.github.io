@@ -366,6 +366,7 @@ img { display: block; }
 .grid-cell.logo[data-logo="latat"] img { max-width: 92%; max-height: 72%; }
 .grid-cell.logo[data-logo="strong-choice"] img { max-width: 94%; max-height: 82%; }
 
+
 .grid-cell.sila-mark-cell {
   padding: .15vh .08vw;
   overflow: visible;
@@ -504,6 +505,7 @@ img { display: block; }
 .sequence-card[data-content="federation"] img { width: 100%; height: 100%; max-width: 86%; max-height: 60%; }
 .sequence-card[data-content="latat"] img { max-width: 86%; max-height: 60%; }
 .sequence-card[data-content="strong-choice"] img { max-width: 90%; max-height: 78%; }
+.sequence-card[data-content="judo"] { background-color: #bbbbbb; }
 
 .sequence-card.is-flipping {
   opacity: 0;
