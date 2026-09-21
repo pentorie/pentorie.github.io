@@ -27,7 +27,7 @@
   }
 
   document.addEventListener("keydown", (event) => {
-    if (/^[1-4]$/.test(event.key)) {
+    if (/^[1-5]$/.test(event.key)) {
       const target = Number(event.key);
       if (target !== screenNumber) window.location.href = `screen-${target}.html`;
     }
