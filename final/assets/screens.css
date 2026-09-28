@@ -236,7 +236,7 @@ img { display: block; }
   text-transform: uppercase;
   position: absolute;
   right: 6.6vw;
-  bottom: 8.4vh;
+  bottom: 14vh;
   width: 55vw;
   margin: 0;
   color: #fff;
@@ -244,7 +244,7 @@ img { display: block; }
   font-size: 32px;
   font-weight: 900;
   letter-spacing: -.018em;
-  line-height: 1.1;
+  line-height: 1.4;
   text-align: center;
 }
 
